@@ -1,18 +1,190 @@
-<h1 align="center">Hi 👋, I'm Galang Aruna Yasa</h1>
-<h3 align="center">enjoys developing websites</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=galangarunayasa&label=Profile%20views&color=0e75b6&style=flat" alt="galangarunayasa" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:7B2CBF,100:00F5FF&height=280&section=header&text=YOUR_NAME&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%26%20Kotlin%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-- 📫 How to reach me **galangarunayasa@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/galang aruna yasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="galang aruna yasa" height="30" width="40" /></a>
-<a href="https://instagram.com/garunayanza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="garunayanza" height="30" width="40" /></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7B2CBF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;Laravel+%2B+PHP+%2B+JavaScript+Enthusiast;Android+Kotlin+Developer+%F0%9F%93%B1;UI%2FUX+%26+Open+Source+Lover+%F0%9F%92%9C" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=7b2cbf&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=00F5FF&labelColor=0D0221" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=for-the-badge&color=7b2cbf&labelColor=0D0221" alt="Stars"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://www.linkedin.com/in/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://YOUR_WEBSITE"><img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://discord.com/users/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
 
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=galangarunayasa&" alt="galangarunayasa" /></p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+## 🟣 About Me
+
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+```yaml
+whoami:
+  name: "YOUR_NAME"
+  role: "Full Stack Developer"
+  focus:
+    - 🚀 Laravel Developer
+    - 🐘 PHP Enthusiast
+    - ⚡ JavaScript Lover
+    - 🎨 Bootstrap & Tailwind
+    - 🔥 Livewire Explorer
+    - 📱 Android Kotlin Developer
+    - 🎯 UI/UX Enthusiast
+    - 🌍 Open Source Lover
+  currently_learning: "Advanced Laravel & Modern Android Architecture"
+  fun_fact: "I turn ☕ into 💻 code every single day"
+```
+
+<br clear="right"/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+## 🟣 Tech Stack
+
+<div align="center">
+
+### 💻 Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=laravel,php,js,html,css,bootstrap,tailwind&theme=dark" />
+
+<br/>
+
+### 🛠️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,androidstudio,kotlin,figma&theme=dark" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+## 🟣 Skill Progress
+
+<div align="center">
+
+| Skill | Progress |
+|:------|:---------|
+| **Laravel**    | ![Progress](https://progress-bar.xyz/95/?scale=100&title=Laravel&width=250&color=7b2cbf&suffix=%25) |
+| **PHP**        | ![Progress](https://progress-bar.xyz/90/?scale=100&title=PHP&width=250&color=7b2cbf&suffix=%25) |
+| **JavaScript** | ![Progress](https://progress-bar.xyz/80/?scale=100&title=JS&width=250&color=00f5ff&suffix=%25) |
+| **Bootstrap**  | ![Progress](https://progress-bar.xyz/90/?scale=100&title=Bootstrap&width=250&color=7b2cbf&suffix=%25) |
+| **Kotlin**     | ![Progress](https://progress-bar.xyz/70/?scale=100&title=Kotlin&width=250&color=00f5ff&suffix=%25) |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+## 🟣 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=00F5FF&icon_color=7B2CBF&text_color=ffffff&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=00F5FF&text_color=ffffff&langs_count=8" width="49%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D0221&stroke=7B2CBF&ring=00F5FF&fire=7B2CBF&currStreakLabel=00F5FF" width="70%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0D0221&color=00F5FF&line=7B2CBF&point=ffffff" width="95%"/>
+
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" width="100%"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+## 🟣 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+> 💡 To activate the snake animation, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to a repo named `YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME`.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+## 🟣 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME/guestbook-laravel">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=guestbook-laravel&theme=radical&hide_border=true&bg_color=0D0221&title_color=00F5FF&text_color=ffffff" width="45%"/>
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME/coffee-shop-website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=coffee-shop-website&theme=radical&hide_border=true&bg_color=0D0221&title_color=00F5FF&text_color=ffffff" width="45%"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME/android-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=android-app&theme=radical&hide_border=true&bg_color=0D0221&title_color=00F5FF&text_color=ffffff" width="45%"/>
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME/portfolio-website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=portfolio-website&theme=radical&hide_border=true&bg_color=0D0221&title_color=00F5FF&text_color=ffffff" width="45%"/>
+</a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+## 🟣 Now Playing
+
+<div align="center">
+<img src="https://spotify-github-readme.vercel.app/api/spotify" width="60%"/>
+</div>
+
+> 🎧 Powered by [spotify-github-readme](https://github.com/kittinan/spotify-github-readme) — connect your own Spotify account to activate this widget.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+## 🟣 Random Dev Quote
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+## 🟣 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_GITHUB_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-00F5FF?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/>
+</a>
+<a href="mailto:YOUR_EMAIL" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://YOUR_WEBSITE" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
+</a>
+<a href="https://discord.com/users/YOUR_GITHUB_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/-Discord-7B2CBF?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2CBF,100:0D0221&height=150&section=footer"/>
+
+<div align="center">
+
+### ✨ Thank you for visiting my profile! ✨
+**Made with ❤️ by YOUR_NAME**
+
+![Last Updated](https://img.shields.io/badge/dynamic/json?color=7b2cbf&label=Last%20Updated&query=%24.updated_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYOUR_GITHUB_USERNAME&style=for-the-badge)
+
+</div>
