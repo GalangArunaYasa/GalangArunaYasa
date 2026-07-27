@@ -116,38 +116,6 @@ whoami:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:00F5FF&height=3&width=1000" width="100%"/>
 
-## 🟣 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/GalangArunaYasa/guestbook-laravel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GalangArunaYasa&repo=guestbook-laravel&theme=radical&hide_border=true&bg_color=0D0221&title_color=00F5FF&text_color=ffffff" width="45%"/>
-</a>
-<a href="https://github.com/GalangArunaYasa/coffee-shop-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GalangArunaYasa&repo=coffee-shop-website&theme=radical&hide_border=true&bg_color=0D0221&title_color=00F5FF&text_color=ffffff" width="45%"/>
-</a>
-
-<a href="https://github.com/GalangArunaYasa/android-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GalangArunaYasa&repo=android-app&theme=radical&hide_border=true&bg_color=0D0221&title_color=00F5FF&text_color=ffffff" width="45%"/>
-</a>
-<a href="https://github.com/GalangArunaYasa/portfolio-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GalangArunaYasa&repo=portfolio-website&theme=radical&hide_border=true&bg_color=0D0221&title_color=00F5FF&text_color=ffffff" width="45%"/>
-</a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:00F5FF&height=3&width=1000" width="100%"/>
-
-## 🟣 Now Playing
-
-<div align="center">
-<img src="https://spotify-github-readme.vercel.app/api/spotify" width="60%"/>
-</div>
-
-> 🎧 Powered by [spotify-github-readme](https://github.com/kittinan/spotify-github-readme) — connect your own Spotify account to activate this widget.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:00F5FF&height=3&width=1000" width="100%"/>
-
 ## 🟣 Random Dev Quote
 
 <div align="center">
