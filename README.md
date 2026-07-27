@@ -89,6 +89,10 @@ whoami:
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=GalangArunaYasa&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=00F5FF&icon_color=7B2CBF&text_color=ffffff&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalangArunaYasa&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=00F5FF&text_color=ffffff&langs_count=8" width="49%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GalangArunaYasa&theme=radical&hide_border=true&background=0D0221&stroke=7B2CBF&ring=00F5FF&fire=7B2CBF&currStreakLabel=00F5FF" width="70%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GalangArunaYasa&theme=react-dark&hide_border=true&bg_color=0D0221&color=00F5FF&line=7B2CBF&point=ffffff" width="95%"/>
 
@@ -112,10 +116,13 @@ whoami:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:00F5FF&height=3&width=1000" width="100%"/>
 
-## 🟣 Random Dev Quote
+## 🟣 My Quote
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+
+> ### "Kehidupan Selalu Berjalan Tak Harus Beriringan Namun Bertujuan."
+> — **MasLang**
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:00F5FF&height=3&width=1000" width="100%"/>
