@@ -26,7 +26,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:00F5FF&height=3&width=1000" width="100%"/>
 
 ## 🟣 About Me
 
@@ -51,7 +51,7 @@ whoami:
 
 <br clear="right"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:00F5FF&height=3&width=1000" width="100%"/>
 
 ## 🟣 Tech Stack
 
@@ -67,7 +67,7 @@ whoami:
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:00F5FF&height=3&width=1000" width="100%"/>
 
 ## 🟣 Skill Progress
 
@@ -83,7 +83,7 @@ whoami:
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:00F5FF&height=3&width=1000" width="100%"/>
 
 ## 🟣 GitHub Statistics
 
@@ -104,7 +104,7 @@ whoami:
 <img src="https://github-profile-trophy.vercel.app/?username=GalangArunaYasa&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" width="100%"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:00F5FF&height=3&width=1000" width="100%"/>
 
 ## 🟣 Contribution Snake
 
@@ -114,7 +114,7 @@ whoami:
 
 > 💡 To activate the snake animation, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to a repo named `GalangArunaYasa/GalangArunaYasa`.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:00F5FF&height=3&width=1000" width="100%"/>
 
 ## 🟣 Featured Projects
 
@@ -136,7 +136,7 @@ whoami:
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:00F5FF&height=3&width=1000" width="100%"/>
 
 ## 🟣 Now Playing
 
@@ -146,7 +146,7 @@ whoami:
 
 > 🎧 Powered by [spotify-github-readme](https://github.com/kittinan/spotify-github-readme) — connect your own Spotify account to activate this widget.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:00F5FF&height=3&width=1000" width="100%"/>
 
 ## 🟣 Random Dev Quote
 
@@ -154,7 +154,7 @@ whoami:
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:00F5FF&height=3&width=1000" width="100%"/>
 
 ## 🟣 Connect With Me
 
