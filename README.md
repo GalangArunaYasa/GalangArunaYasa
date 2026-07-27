@@ -89,7 +89,6 @@ whoami:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GalangArunaYasa&theme=radical&hide_border=true&background=0D0221&stroke=7B2CBF&ring=00F5FF&fire=7B2CBF&currStreakLabel=00F5FF" width="70%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GalangArunaYasa&theme=react-dark&hide_border=true&bg_color=0D0221&color=00F5FF&line=7B2CBF&point=ffffff" width="95%"/>
 
