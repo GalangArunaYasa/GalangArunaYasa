@@ -94,13 +94,6 @@ whoami:
 
 </div>
 
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=GalangArunaYasa&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" width="100%"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:00F5FF&height=3&width=1000" width="100%"/>
 
 ## 🟣 Contribution Snake
 
