@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:7B2CBF,100:00F5FF&height=280&section=header&text=Galang Aruna Yasa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%26%20Kotlin%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
