@@ -38,7 +38,6 @@ const galang = {
   stack: {
     backend:  ["Laravel", "PHP", "Livewire"],
     frontend: ["JavaScript", "Tailwind", "Bootstrap"],
-    mobile:   ["Kotlin", "Android"],
   },
   passions: ["UI/UX", "Open Source", "Clean Architecture"],
   currentlyLearning: "Advanced Laravel & Modern Android Architecture",
@@ -67,8 +66,6 @@ const galang = {
 |------|-----------|-------|
 | 🐘 Backend | Laravel, PHP, Livewire | ![](https://img.shields.io/badge/-Advanced-7B2CBF?style=flat-square) |
 | 🎨 Frontend | JavaScript, Tailwind, Bootstrap | ![](https://img.shields.io/badge/-Advanced-7B2CBF?style=flat-square) |
-| 📱 Mobile | Kotlin, Android | ![](https://img.shields.io/badge/-Intermediate-00F5FF?style=flat-square&labelColor=0D0221) |
-| 🖌️ Design | UI/UX, Figma | ![](https://img.shields.io/badge/-Intermediate-00F5FF?style=flat-square&labelColor=0D0221) |
 
 </details>
 
